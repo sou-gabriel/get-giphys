@@ -1,36 +1,20 @@
-html {
-  font-size: 20px;
-  line-height: 1.6;
-  font-family: Roboto, sans-serif;
-}
-
-img {
-  width: 100%;
-  max-width: 100%;
-  margin-top: 15px;
-}
-
-body {
-  background-color: #86A6A0;
-}
-
-#page-container {
+div.page-container {
   background-color: #4D736F;
   width: 500px;
   margin: 0 auto;
-  padding: 5px 15px 15px;
+  padding: 15px;
   border-radius: 4px;
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.349);
 }
 
 h1 {
-  font-size: 25px;
+  font-size: 28px;
   text-align: center;
   text-transform: uppercase;
-  color: #E0EAE6;
+  color: #faf6f6;
 }
 
-form input#search,
+form input,
 form button {
   width: 100%;
   border: none;
@@ -38,7 +22,7 @@ form button {
   border-radius: 4px;
 }
 
-form input#search {
+form input {
   background-color: #FFFFFF;
   height: 35px;
   padding-left: 10px;
@@ -52,11 +36,4 @@ form button {
   color: #FFFFFF;
   cursor: pointer;
   margin-bottom: 15px;
-}
-
-.line {
-  margin-bottom: 15px;
-  border: 1px solid #e0eae691;
-  border-radius: 2px;
-  width: 50%;
 }

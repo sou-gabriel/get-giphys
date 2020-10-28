@@ -2,22 +2,22 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <link rel="stylesheet" href="./style.css">  
+  <link rel="stylesheet" href="./styles/main.css">
+  <link rel="stylesheet" href="./styles/page-container.css">  
+  <link rel="stylesheet" href="./styles/feedback.css">  
   <title>Testando a API do GIPHY</title>
 </head>
 <body>
-  <div id="page-container">
+  <div class="page-container">
     <h1>Testando a API do GIPHY</h1>
 
     <main>
       <form>
-        <input id="search" type="search" placeholder="Insira o nome do GIF" autofocus />
-        <button id="btnSearch">Buscar</button>
-      </form>
-      
-      <hr class="line line-animation"> 
+        <input name="search" type="search" placeholder="Insira o nome do GIF" autofocus />
+        <button>Buscar</button>
+      </form>   
 
-      <div class="out"></div>
+      <div class="gifs-container"></div>
     </main>
     
     <script src="./app.js"></script>

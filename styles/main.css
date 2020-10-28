@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 20px;
+  line-height: 1.6;
+  font-family: 'Trebuchet MS', Arial, sans-serif, sans-serif;
+}
+
+img {
+  width: 100%;
+  max-width: 100%;
+  margin-top: 15px;
+}
+
+body {
+  background-color: #86A6A0;
+}
