@@ -18,5 +18,4 @@ git clone https://github.com/sou-gabriel/get-giphys.git
 Este projeto esta sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
 <p align="center">Desenvolvido com ❤ por Gabriel Ramos Nogueira</p>
