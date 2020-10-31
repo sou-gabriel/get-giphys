@@ -2,7 +2,7 @@
 Get Giphys é uma aplicação de exibição de GIFs animados. Os GIFs são obtidos por meio da api do GIPHYS por meio de requests realizados.
 
 ## 📚 Por que desenvolvida
-Trata-se de uma aplicação desenvolvida durante meus estudos de JavaScript assíncrono, no CJRM.
+Basicamente para fins próprios de aprendizado durante meus estudos de JavaScript assíncrono, no CJRM.
 
 ## 🧰 O que pratiquei
 - [Requests por meio da fetch API](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch)
